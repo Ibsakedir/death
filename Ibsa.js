@@ -12,4 +12,6 @@ function Deathtime(){
 console.log(Math.floor(Math.random()*3+1))
 
 
-//1. Brukeren skriver alderen og sj;n
+//1. Brukeren skriver alderen og sjønn
+//2. må vi ha gj
+// hei there 
